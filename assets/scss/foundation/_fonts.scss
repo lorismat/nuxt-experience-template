@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "eduu";
+  src: url('/fonts/Edu_NSW_ACT_Foundation/edu-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "eduu";
+  src: url('/fonts/Edu_NSW_ACT_Foundation/edu-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-family: eduu, sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  &:hover {
+    font-weight: bold;
+  }
+}

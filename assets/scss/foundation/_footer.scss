@@ -1,0 +1,14 @@
+// create a footer at the bottom of the page
+.footer {
+  margin: 0;
+  padding: 0;
+  // put it at the bottom of the page
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: right;
+  padding: 10px 0;
+  font-size: 12px;
+  &:hover {
+  }
+}
