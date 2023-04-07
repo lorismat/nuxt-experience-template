@@ -38,7 +38,7 @@ A regularly updated `nuxt` project with the following features and integration:
 # Full process to keep a project up to date
 
 - [This resource](https://www.dataschool.io/how-to-contribute-on-github/)
-- 
+- [Set different url post-cloning](https://github.com/lorismat/nuxt-experience-template)
 
 # to do
 
