@@ -2,25 +2,7 @@
   <div>
 
     
-    <ThreeCanvas />
-
-    <!-- 
-      <div class="h-test uppercase">
-        home
-      </div>
-
-      <Fonts />
-
-      <div>
-        code: {{ counter }}
-      </div>
-
-      <div>
-        <DataD3 />
-        <Anime />
-        <SVGTest />
-      </div>
-    -->
+    <div>yo!</div>
 
   </div>
 </template>
