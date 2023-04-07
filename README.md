@@ -35,6 +35,10 @@ A regularly updated `nuxt` project with the following features and integration:
 
 #### With `vercel`
 
+# Full process to keep a project up to date
+
+- [This resource](https://www.dataschool.io/how-to-contribute-on-github/)
+
 # to do
 
 - create another repo that can capture the changes
